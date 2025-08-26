@@ -39,3 +39,10 @@ vendor.wfdservice64=enable
 
 # Zygote
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+
+# Alioth base system props
+ro.infinity.soc=Snapdragon 870 5G
+ro.infinity.battery=4520 mAh
+ro.infinity.display=1080 x 2400, 120 Hz AMOLED
+ro.infinity.camera=48MP + 8MP + 5MP
